@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ziyuan Gu's Page"
+title                    : "Ziyuan Gu - Homepage"
 title_separator          : "-"
 name                     : &name "Ziyuan Gu"
 description              : &description "personal description"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Ziyuan Gu"
   avatar           : "Ziyuan.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Nanjing China"
+  bio              : "Associate Professor, Department of Traffic Engineering, School of Transportation, Southeast University"
+  location         : "Nanjing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.au/citations?user=SMxZRJMAAAAJ&hl=en"
   email            : "ziyuangu@seu.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Ziyuan-Gu"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://cn.linkedin.com/in/ziyuan-gu-666006102"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-2059-4809"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
