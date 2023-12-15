@@ -5,7 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-<html>
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
  <header>
    <h1 class="page__title" itemprop="headline">Publications</h1>
  </header>
