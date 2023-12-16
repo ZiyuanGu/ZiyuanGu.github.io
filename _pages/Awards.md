@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-======
+
 * Best paper award in the 14th International Workshop on Computational Transportation Science (CTS 2023).
 * Best paper award in the 5th International Symposium on Multimodal Transportation (ISMT 2023).
 * Winning prize in the innovation contest of the 29th ITS World Congress, Suzhou, China.
