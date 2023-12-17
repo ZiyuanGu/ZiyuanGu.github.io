@@ -12,7 +12,7 @@ I am an Associate Professor in the School of Transportation at Southeast Univers
 
 For prospective students
 ======
-I am constantly looking for 1-2 Master’s students and 1 PhD student every year who are excited about mathematical modeling and machine learning for smart transportation. If you are interested, please send me an email. Background is not limited to transportation engineering, management science, computer science, applied mathematics. My Chinese website <a href="https://tc.seu.edu.cn/2023/1109/c25722a471750/page.htm"> </a> is also available.
+I am constantly looking for 1-2 Master’s students and 1 PhD student every year who are excited about mathematical modeling and machine learning for smart transportation. If you are interested, please send me an email. Background is not limited to transportation engineering, management science, computer science, applied mathematics. <a href="https://tc.seu.edu.cn/2023/1109/c25722a471750/page.htm"> My Chinese website </a> is also available.
 
 Research interests
 ======
