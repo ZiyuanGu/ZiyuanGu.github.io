@@ -2,18 +2,21 @@
 main:
   - title: "Publications"
     url: /publication/
+    
+  - title: "Presentations"
+    url: /presentations/
 
   - title: "Teaching"
     url: /teaching/    
-        
-  - title: "CV"
-    url: /cv/
-
-  - title: "Awards"
-    url: /awards/    
 
   - title: "Activities"
     url: /activities/
+
+  - title: "Awards"
+    url: /awards/  
+
+  - title: "CV"
+    url: /cv/   
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
