@@ -7,19 +7,22 @@ author_profile: true
 
 {% include base_path %}
 
+Journal editor
+======
+* IET Intelligent Transport Systems (Associate Editor)
+
 Journal reviewer
 ======
+* Transportation Research Part A: Policy and Practice
 * Transportation Research Part B: Methodological
 * Transportation Research Part C: Emerging Technologies
+* Transportation Research Part D: Transport and Environment
 * Transportation Research Part E: Logistics and Transportation Review
 * IEEE Transactions on Intelligent Transportation Systems
-* Transportmetrica A: Transport Science
-* Transportmetrica B: Transport Dynamics
-* Transportation Research Record: Journal of the Transportation Research Board
 
 Conference service
 ======
-* ISMT 2021 organizing committee member
+* ISMT 2021 organizing committee member & session chair
 * ITSC 2019 session chair
 * ITSC and TRB reviewer
 
