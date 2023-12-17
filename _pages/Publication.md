@@ -11,6 +11,8 @@ author_profile: true
 
 Refereed Journal Papers
 ======
+* Wang, Z., Liu, Z., Cheng, Q.*, Gu, Z.*, 2024. <a href="https://authors.elsevier.com/sd/article/S0968-090X(23)00429-1."> Integrated self-consistent macro-micro traffic flow modeling and calibration framework based on trajectory data. </a> Transportation Research Part C: Emerging Technologies 158, 104439.
+ 
 * Alhariqi, A., Gu, Z., Saberi, M.*, 2023. <a href="https://www.sciencedirect.com/science/article/pii/S1361920923003619#:~:text=Vehicle%20arrangement%20in%20a%20mixed,follower%20AV%20produces%20more%20emissions."> Impact of vehicle arrangement in mixed autonomy traffic on emissions. </a> Transportation Research Part D: Transport and Environment 125, 103964.
 
 * Gu, Z., Li, Y., Saberi, M., Rashidi, T.H., Liu, Z.*, 2023. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0191261523000917."> Macroscopic parking dynamics and equitable pricing: Integrating trip-based modeling with simulation-based robust optimization.</a> Transportation Research Part B: Methodological 173, 354-381.
