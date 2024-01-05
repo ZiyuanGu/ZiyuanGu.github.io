@@ -6,11 +6,17 @@ main:
   - title: "Presentations"
     url: /presentations/
 
+  - title: "Teaching"
+    url: /teaching/   
+
   - title: "Activities"
     url: /activities/
 
   - title: "Awards"
-    url: /awards/  
+    url: /awards/
+    
+  - title: "Team"
+    url: /team/
 
   - title: "CV"
     url: /cv/   
