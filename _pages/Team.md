@@ -10,11 +10,11 @@ redirect_from:
 {% include base_path %}
 
 
-Phd Student
+Ph.D. Students
 ======
 * Yuan Kuang (from Fall 2024)
 
-Master Student
+Master's Students
 ======
 * Yang Cao (from Fall 2022)
 * Guiqi Dai (from Fall 2022) 
