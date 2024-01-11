@@ -13,6 +13,7 @@ redirect_from:
 Ph.D. Students
 ======
 * Yuan Kuang (from Fall 2024)
+* Kangyu Zhang (from Fall 2024)
 
 Master's Students
 ======
