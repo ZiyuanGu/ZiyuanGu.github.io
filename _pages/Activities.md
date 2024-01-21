@@ -10,6 +10,7 @@ author_profile: true
 Journal editor
 ======
 * IET Intelligent Transport Systems (Associate Editor)
+* Journal of Advanced Transportation (SI Guest Editor)
 
 Journal reviewer
 ======
@@ -22,6 +23,9 @@ Journal reviewer
 
 Conference service
 ======
+* ISMT 2024 organizing committee executive chair
+* WTC Transportation System Model and Simulation-Based Decision-Making Technical Committee chair
+* WTC Multimodal Urban Transportation Systems Analysis Technical Committee member
 * ISMT 2021 organizing committee member & session chair
 * ITSC 2019 session chair
 * ITSC and TRB reviewer
