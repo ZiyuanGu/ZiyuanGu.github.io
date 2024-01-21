@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
+* "Adaptive simulation-based robust optimization method for black-box transportation problems". The 2023 Annual Meeting of the Complex System Management Branch of the Society of Management Science and Engineering of China, Beijing, China, 30-31 December 2023.
 * “Adaptive Computational Resources Allocation in Simulation-Based Robust Optimization of Heteroscedastic Transportation Problems”. The 14th Workshop on Computational Transportation Science (CTS 2023), Shanghai, China, 11-13 August 2023.
 * “A multi-region mixed autonomy network model for urban parking management: Model and algorithm”. The 5th International Symposium on Multimodal Transportation (ISMT 2023) and the 2nd Annual Symposium of Chinese Society of Multimodal Transportation (CSMMT), Dalian, China, 19-21 July 2023.
 * “TERL: Two-Stage Ensemble Reinforcement Learning Paradigm for Large-Scale Decentralized Decision Making in Transportation Simulation”. Workshop: Application of Deep Learning & Data Science in Transportation and Smart City, NYU Shanghai, China, 25 June 2023.
