@@ -49,6 +49,20 @@ Current roles
 Prospective students
 ======
 
-I welcome enquiries from motivated PhD, master's, and undergraduate students interested in mathematical modelling, traffic simulation, optimisation, artificial intelligence, and machine learning for smart transportation.
+I welcome enquiries from motivated students who are interested in academic research and wish to work in transportation modelling, traffic simulation, optimisation, artificial intelligence, machine learning, and related areas.
 
-Applicants from transportation engineering, civil engineering, operations research, management science, computer science, data science, applied mathematics, and related disciplines are encouraged to contact me by email. Opportunities may also be available for international collaboration, joint supervision, and research visits.
+I normally recruit one to two PhD students and two to three master's students each year. Opportunities may include jointly supervised PhD study with Monash University in Australia, master's study at Southeast University's Wuxi Campus, international academic exchange, joint research, and visiting study.
+
+Applicants are expected to have strong quantitative and computational skills. A prior degree in transportation engineering is not required. Students from transportation engineering, management science, operations research, computer science, data science, mathematics, applied mathematics, and related disciplines are encouraged to apply.
+
+Undergraduate students are also welcome to contact me about Student Research Training Program projects, transportation science and technology competitions, and other research opportunities.
+
+Student supervision and graduate outcomes
+======
+
+My students receive training in mathematical modelling, computational methods, academic writing, interdisciplinary collaboration, and independent research.
+
+Recent master's graduates include:
+
+- Yang Cao, Class of 2025 — China Development Bank, Hunan Branch
+- Guiqi Dai, Class of 2025 — Huawei Markov Laboratory
