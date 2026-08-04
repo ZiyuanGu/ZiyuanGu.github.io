@@ -1,25 +1,52 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About"
+excerpt: "About"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am an Associate Professor in the School of Transportation at Southeast University. I received my PhD degree in Civil Engineering (Transportation) from the University of New South Wales, and earned a Bachelor degree in Civil Engineering from Nanjing Tech University and a Master’s degree in Transportation Engineering from Southeast University. During my PhD, I worked at the CityX Lab at the Research Center for Integrated Transport Innovation. Prior to joining Southeast University, I was a Postdoctoral Fellow at the University of New South Wales for two years. My current research centers on complex and future transportation system modeling, simulation, and optimization.
-<a href="https://tc.seu.edu.cn/2023/1109/c25722a471750/page.htm"> My Chinese website </a> is also available.
+I am an Associate Professor and PhD Supervisor in the School of Transportation at Southeast University, China. I currently serve as Deputy Director of the Complex Transportation Networks Research Centre and Deputy Director of the Huawei–Southeast University Joint Laboratory for Integrated Macro–Micro Traffic Simulation.
 
-For prospective students
-======
-I am constantly looking for 1-2 Master’s students and 1 PhD student every year who are excited about mathematical modeling and machine learning for smart transportation. If you are interested, please send me an email. Background is not limited to transportation engineering, management science, computer science, applied mathematics.
+I received my PhD in Civil and Environmental Engineering from the University of New South Wales (UNSW), Australia, where I worked with Professor Meead Saberi and Professor S. Travis Waller. After completing my PhD, I remained at UNSW as a Postdoctoral Research Fellow for two years. I received my master's degree in Transportation Engineering from the Southeast University–Monash University Joint Graduate School and my bachelor's degree in Civil Engineering from Nanjing Tech University.
+
+My research focuses on the modelling, simulation, and optimisation of complex and emerging transportation systems. In particular, I study multi-fidelity transportation network modelling, simulation-based intelligent optimisation, mixed-autonomy traffic networks, parking systems, network pricing, and data- and AI-driven mobility systems.
+
+I have published more than 50 journal and conference papers, with research appearing in *Nature Communications*, *Transportation Science*, *IEEE Transactions on Knowledge and Data Engineering*, *Transportation Research Parts A–E*, *Computer-Aided Civil and Infrastructure Engineering*, and other leading international journals.
+
+I have led competitive research projects funded by the National Natural Science Foundation of China and the Natural Science Foundation of Jiangsu Province. I have also contributed to major research and industry projects involving transportation digital twins, integrated macro–micro traffic simulation, intelligent transportation systems, and low-carbon mobility.
+
+My teaching includes Transportation Big Data Analytics and Advanced Operations Research. I supervise PhD, master's, and undergraduate students working across transportation engineering, operations research, computer science, data science, and applied mathematics.
+
+[View my Chinese institutional profile](https://tc.seu.edu.cn/tn/2022/1217/c44698a432735/page.htm).
 
 Research interests
 ======
-<li> Transportation network modeling </li> 
-<li> Microscopic traffic simulation </li>
-<li> Simulation-based optimization </li>
-<li> Agent-based simulation </li>
-<li> Intelligent transportation systems </li>
-<li> Travel demand management </li>
+
+- Multi-fidelity transportation network modelling
+- Complex transportation system simulation and optimisation
+- Mixed-autonomy traffic network modelling
+- Intelligent transportation systems
+- Traffic simulation and digital twins
+- Simulation-based optimisation
+- Parking dynamics, management, and pricing
+- AI and machine learning for smart mobility
+- Connected and automated transportation systems
+- Transportation big data analytics
+
+Current research roles
+======
+
+- Associate Professor and PhD Supervisor, Southeast University
+- Deputy Director, Complex Transportation Networks Research Centre
+- Deputy Director, Huawei–Southeast University Joint Laboratory for Integrated Macro–Micro Traffic Simulation
+- Associate Editor, *IET Intelligent Transport Systems*
+
+Prospective students
+======
+
+I welcome enquiries from motivated PhD and master's students interested in mathematical modelling, traffic simulation, optimisation, artificial intelligence, and machine learning for smart transportation.
+
+Applicants from transportation engineering, civil engineering, operations research, management science, computer science, data science, applied mathematics, and related disciplines are encouraged to contact me by email.
