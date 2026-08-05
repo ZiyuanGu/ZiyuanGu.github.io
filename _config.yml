@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-AU"
-title                    : "Ziyuan Gu | Transportation Systems Researcher"
+title                    : "Ziyuan Gu"
 title_separator          : "-"
 name                     : &name "Ziyuan Gu"
 description              : &description "Academic profile of Ziyuan Gu, specialising in transportation network modelling, traffic simulation, intelligent transport systems, mixed-autonomy networks, and simulation-based optimisation."

@@ -32,6 +32,24 @@
   margin-top: 0;
 }
 
+.research-card h3 {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+.research-card h3::before {
+  content: "";
+  display: inline-block;
+  flex: 0 0 auto;
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 2px;
+  background: #4f6f8f;
+}
+
 .grant-card {
   margin-bottom: 1rem;
 }
