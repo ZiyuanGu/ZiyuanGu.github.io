@@ -31,5 +31,5 @@ January 2019–December 2020
 ## Further information
 
 <div class="cv-links" markdown="1">
-[Research & Grants](/research/) · [Publications](/publication/) · [Teaching & Supervision](/teaching/) · [Academic Service](/service/) · [Awards](/awards/) · [Google Scholar](https://scholar.google.com.au/citations?user=SMxZRJMAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Ziyuan-Gu) · [ORCID](https://orcid.org/0000-0002-2059-4809) · [Institutional profile](https://tc.seu.edu.cn/gzy/list.htm)
+[Research & Grants](/research/) · [Publications](/publications/) · [Teaching & Supervision](/teaching/) · [Academic Service](/service/) · [Awards](/awards/) · [Google Scholar](https://scholar.google.com.au/citations?user=SMxZRJMAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Ziyuan-Gu) · [ORCID](https://orcid.org/0000-0002-2059-4809) · [Institutional profile](https://tc.seu.edu.cn/gzy/list.htm)
 </div>
