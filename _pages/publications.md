@@ -56,11 +56,11 @@ author_profile: true
 ## 2023
 
 - Alhariqi, A., **Gu, Z.**, & Saberi, M.<sup>*</sup> [Impact of vehicle arrangement in mixed autonomy traffic on emissions](https://doi.org/10.1016/j.trd.2023.103964). *Transportation Research Part D: Transport and Environment*, 125, 103964.
-- **Gu, Z.**, Li, Y., Saberi, M., Rashidi, T. H., & Liu, Z.<sup>*</sup> [Macroscopic parking dynamics and equitable pricing: Integrating trip-based modeling with simulation-based robust optimization](https://www.sciencedirect.com/science/article/abs/pii/S0191261523000917). *Transportation Research Part B: Methodological*, 173, 354–381.
+- **Gu, Z.**, Li, Y., Saberi, M., Rashidi, T. H., & Liu, Z.<sup>*</sup> [Macroscopic parking dynamics and equitable pricing: Integrating trip-based modeling with simulation-based robust optimization](https://doi.org/10.1016/j.trb.2023.05.011). *Transportation Research Part B: Methodological*, 173, 354–381.
 - **Gu, Z.**, Yang, X., Zhang, Q., Yu, W., & Liu, Z.<sup>*</sup> [TERL: Two-stage ensemble reinforcement learning paradigm for large-scale decentralized decision making in transportation simulation](https://doi.org/10.1109/TKDE.2023.3272688). *IEEE Transactions on Knowledge and Data Engineering*, 35(12), 13043–13054.
 - Chen, Y., **Gu, Z.**, Zheng, N., & Vu, H. L.<sup>*</sup> [Optimal coordinated congestion pricing for multiple regions: A surrogate-based approach](https://doi.org/10.1007/s11116-023-10400-5). *Transportation*, 51, 2139–2171.
 - Shafiei, S.<sup>*</sup>, **Gu, Z.**, Grzybowska, H., & Cai, C. [Impact of self-parking autonomous vehicles on urban traffic congestion](https://doi.org/10.1007/s11116-021-10241-0). *Transportation*, 50(1), 183–203.
-- Shi, Y., **Gu, Z.**<sup>*</sup>, Yang, X., Li, Y., & Chu, Z. [An adaptive route guidance model considering the effect of traffic signals based on deep reinforcement learning](https://ieeexplore.ieee.org/document/10113710). *IEEE Intelligent Transportation Systems Magazine*, 2–15.
+- Shi, Y., **Gu, Z.**<sup>*</sup>, Yang, X., Li, Y., & Chu, Z. [An adaptive route guidance model considering the effect of traffic signals based on deep reinforcement learning](https://doi.org/10.1109/MITS.2023.3265596). *IEEE Intelligent Transportation Systems Magazine*, 2–15.
 - Wang, Z., Shi, Y., Tong, W., **Gu, Z.**, & Cheng, Q.<sup>*</sup> [Car-following models for human-driven vehicles and autonomous vehicles: A systematic review](https://doi.org/10.1061/JTEPBS.TEENG-7836). *Journal of Transportation Engineering, Part A: Systems*, 149(8), 04023075.
 {: .publication-list}
 
@@ -92,14 +92,14 @@ author_profile: true
 
 ### 2019
 
-- **Gu, Z.**, & Saberi, M.<sup>*</sup> [A bi-partitioning approach to congestion pattern recognition in a congested monocentric city](https://www.sciencedirect.com/science/article/abs/pii/S0968090X19300877). *Transportation Research Part C: Emerging Technologies*, 109, 305–320.
+- **Gu, Z.**, & Saberi, M.<sup>*</sup> [A bi-partitioning approach to congestion pattern recognition in a congested monocentric city](https://doi.org/10.1016/j.trc.2019.10.016). *Transportation Research Part C: Emerging Technologies*, 109, 305–320.
 - **Gu, Z.**, Waller, S. T., & Saberi, M.<sup>*</sup> [Surrogate-based toll optimization in a large-scale heterogeneously congested network](https://doi.org/10.1111/mice.12444). *Computer-Aided Civil and Infrastructure Engineering*, 34(8), 638–653.
 {: .publication-list}
 
 ### 2018
 
-- **Gu, Z.**, Saberi, M., Sarvi, M., & Liu, Z.<sup>*</sup> [A big data approach for clustering and calibration of link fundamental diagrams for large-scale network simulation applications](https://www.sciencedirect.com/science/article/pii/S2352146517303289). *Transportation Research Part C: Emerging Technologies*, 94, 151–171.
-- **Gu, Z.**, Shafiei, S., Liu, Z., & Saberi, M.<sup>*</sup> [Optimal distance- and time-dependent area-based pricing with the network fundamental diagram](https://www.sciencedirect.com/science/article/abs/pii/S0968090X18300573). *Transportation Research Part C: Emerging Technologies*, 95, 1–28.
+- **Gu, Z.**, Saberi, M., Sarvi, M., & Liu, Z.<sup>*</sup> [A big data approach for clustering and calibration of link fundamental diagrams for large-scale network simulation applications](https://doi.org/10.1016/j.trc.2017.08.012). *Transportation Research Part C: Emerging Technologies*, 94, 151–171.
+- **Gu, Z.**, Shafiei, S., Liu, Z., & Saberi, M.<sup>*</sup> [Optimal distance- and time-dependent area-based pricing with the network fundamental diagram](https://doi.org/10.1016/j.trc.2018.07.004). *Transportation Research Part C: Emerging Technologies*, 95, 1–28.
 - Shafiei, S., **Gu, Z.**, & Saberi, M.<sup>*</sup> [Calibration and validation of a simulation-based dynamic traffic assignment model for a large-scale congested network](https://www.sciencedirect.com/science/article/abs/pii/S1569190X18300558). *Simulation Modelling Practice and Theory*, 86, 169–186.
 {: .publication-list}
 
