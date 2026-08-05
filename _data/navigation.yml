@@ -1,31 +1,22 @@
 # main links links
 main:
+  - title: "About"
+    url: /
+
+  - title: "Research & Grants"
+    url: /research/
+
   - title: "Publications"
     url: /publication/
-    
-  - title: "Presentations"
-    url: /presentations/
 
-  - title: "Teaching"
-    url: /teaching/   
+  - title: "Teaching & Supervision"
+    url: /teaching/
 
-  - title: "Activities"
-    url: /activities/
+  - title: "Academic Service"
+    url: /service/
 
   - title: "Awards"
     url: /awards/
-    
-  - title: "Team"
-    url: /team/
 
   - title: "CV"
-    url: /cv/   
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
-
-#  - title: "Guide"
-#    url: /markdown/
-
-#  - title: "Teaching"
-#    url: /teaching/    
+    url: /cv/
