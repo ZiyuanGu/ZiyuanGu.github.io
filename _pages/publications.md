@@ -17,6 +17,7 @@ author_profile: true
 
 ## 2026
 
+- Li, Y., **Gu, Z.**, Zheng, N., Ma, W., & Liu, Z. [Two-region mixed autonomy network with park-and-ride: Macroscopic modeling, microscopic validation, and multi-scenario analysis](https://doi.org/10.1016/j.tra.2026.105084). *Transportation Research Part A: Policy and Practice*, 211, 105084.
 - **Gu, Z.**, Kuang, Y., Vu, H. L., Saberi, M., Liu, Y., & Liu, Z.<sup>&#42;</sup> [Large-scale transportation governance: A tensorization-parallelization co-empowered framework](https://doi.org/10.1016/j.xinn.2025.101246). *The Innovation*, 7(4), 101246.
 - Huo, J., Liu, Z.<sup>&#42;</sup>, **Gu, Z.**<sup>&#42;</sup>, & Chen, C. [A hybrid ranking and selection procedure to solve simulation-based discrete network design problems](https://doi.org/10.1016/j.trc.2025.105438). *Transportation Research Part C: Emerging Technologies*, 183, 105438.
 - **Gu, Z.**, Ru, B., Li, Y., Ma, W., Vu, H. L., Cheng, Q., & Kuang, Y.<sup>&#42;</sup> [Simulation-based optimization for transportation system analysis: State-of-the-art research and future endeavors](https://doi.org/10.1016/j.multra.2025.100253). *Multimodal Transportation*, 5(1), 100253.
