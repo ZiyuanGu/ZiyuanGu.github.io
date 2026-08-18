@@ -17,6 +17,7 @@ author_profile: true
 
 ## 2026
 
+- Liu, C., Huang, K., Zhou, H., **Gu, Z.**, Liu, Q., & Liu, Z. [HMP-RL: Hierarchical multi-Policy reinforcement learning for truck platooning](https://doi.org/10.1016/j.trc.2026.105579). *Transportation Research Part C: Emerging Technologies*, 185, 105579.
 - Li, Y., **Gu, Z.**, Zheng, N., Ma, W., & Liu, Z. [Two-region mixed autonomy network with park-and-ride: Macroscopic modeling, microscopic validation, and multi-scenario analysis](https://doi.org/10.1016/j.tra.2026.105084). *Transportation Research Part A: Policy and Practice*, 211, 105084.
 - **Gu, Z.**, Kuang, Y., Vu, H. L., Saberi, M., Liu, Y., & Liu, Z.<sup>&#42;</sup> [Large-scale transportation governance: A tensorization-parallelization co-empowered framework](https://doi.org/10.1016/j.xinn.2025.101246). *The Innovation*, 7(4), 101246.
 - Huo, J., Liu, Z.<sup>&#42;</sup>, **Gu, Z.**<sup>&#42;</sup>, & Chen, C. [A hybrid ranking and selection procedure to solve simulation-based discrete network design problems](https://doi.org/10.1016/j.trc.2025.105438). *Transportation Research Part C: Emerging Technologies*, 183, 105438.
