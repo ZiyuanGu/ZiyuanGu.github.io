@@ -14,6 +14,7 @@ redirect_from:
 **Associate Professor**, School of Transportation, Southeast University<br>
 March 2021–present
 
+- Assistant to the School Administration
 - Deputy Director, Complex Transportation Networks Research Centre
 - Deputy Director, Huawei–Southeast University Joint Laboratory for Integrated Macro–Micro Traffic Simulation
 
