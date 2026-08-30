@@ -7,8 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
+## 2026
+
+- Two Spark Awards, Huawei
+- Best Paper Award, 15th Asia-Pacific Conference on Transportation and the Environment (APTE 2026), corresponding author
+
 ## 2025
 
+- First Prize, Ministry of Education Outstanding Scientific Research Achievement Award (6/6)
 - Best Paper Award, 7th International Symposium on Multimodal Transportation (ISMT 2025), co-author
 - Outstanding Undergraduate Graduation Project (Thesis), Southeast University, supervisor
 - Best Paper Award, 16th International Workshop on Computational Transportation Science (CTS 2025), corresponding author
