@@ -12,6 +12,8 @@ redirect_from:
 ## Editorial service
 
 - Associate Editor, *IET Intelligent Transport Systems*
+- Early Career Editorial Board Member, *Transportation Research Part C: Emerging Technologies*
+- Early Career Editorial Board Member, *Multimodal Transportation*
 - Guest Editor, *Transportation Research Part E: Logistics and Transportation Review* — Emerging Technologies and Methods for Multimodal Transportation
 - Guest Editor, *Multimodal Transportation* — Emerging Technologies and Methods for Multimodal Transportation
 - Guest Editor, *Journal of Advanced Transportation* — Theory and Practice of Transportation Data Intelligence
