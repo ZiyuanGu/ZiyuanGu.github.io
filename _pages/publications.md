@@ -17,6 +17,8 @@ author_profile: true
 
 ## 2026
 
+- Huang, D.<sup>&#42;</sup>, Liu, Z., Li, T., & **Gu, Z.** [Data-driven departure time and traffic assignment model for intercity multimodal transport system](https://doi.org/10.1016/j.cie.2026.111834). *Computers & Industrial Engineering*, 214, 111834.
+- **Gu, Z.**, Xu, M., Sun, Q., Jiang, A., Zhao, Y., Yu, A., & Liu, Z.<sup>&#42;</sup> [A data-empowered online simulation framework with parallel computing capabilities for macroscopic heterogeneous highway traffic flows](https://doi.org/10.1016/j.trc.2026.105919). *Transportation Research Part C: Emerging Technologies*, 193, 105919.
 - Liu, C., Huang, K.<sup>&#42;</sup>, Zhou, H., **Gu, Z.**, Liu, Q., & Liu, Z. [HMP-RL: Hierarchical multi-Policy reinforcement learning for truck platooning](https://doi.org/10.1016/j.trc.2026.105579). *Transportation Research Part C: Emerging Technologies*, 185, 105579.
 - Li, Y., **Gu, Z.**<sup>&#42;</sup>, Zheng, N., Ma, W., & Liu, Z. [Two-region mixed autonomy network with park-and-ride: Macroscopic modeling, microscopic validation, and multi-scenario analysis](https://doi.org/10.1016/j.tra.2026.105084). *Transportation Research Part A: Policy and Practice*, 211, 105084.
 - **Gu, Z.**, Kuang, Y., Vu, H. L., Saberi, M., Liu, Y., & Liu, Z.<sup>&#42;</sup> [Large-scale transportation governance: A tensorization-parallelization co-empowered framework](https://doi.org/10.1016/j.xinn.2025.101246). *The Innovation*, 7(4), 101246.

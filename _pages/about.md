@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor in the School of Transportation at Southeast University, China. I serve as Deputy Director of the Complex Transportation Networks Research Centre and Deputy Director of the Huawei–Southeast University Joint Laboratory for Integrated Macro–Micro Traffic Simulation.
+I am an Associate Professor in the School of Transportation at Southeast University, China, where I also serve as Assistant to the School Administration. I serve as Deputy Director of the Complex Transportation Networks Research Centre and Deputy Director of the Huawei–Southeast University Joint Laboratory for Integrated Macro–Micro Traffic Simulation.
 
 I received my PhD in Transportation Engineering from the University of New South Wales (UNSW), Australia, in 2019, where I worked with Professor Meead Saberi and Professor S. Travis Waller. I subsequently remained at UNSW as a Postdoctoral Research Fellow until the end of 2020. I received my master's degree from the Southeast University–Monash University Joint Graduate School and my bachelor's degree in Civil Engineering from Nanjing Tech University.
 

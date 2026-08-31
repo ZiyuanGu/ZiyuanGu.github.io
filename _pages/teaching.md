@@ -15,7 +15,7 @@ author_profile: true
 
 ## Prospective students
 
-I recruit 1–2 PhD students each year, including candidates for joint PhD programmes with Monash University, Australia, and 2–3 master’s students each year, including students based at Southeast University’s Wuxi campus.
+I recruit 1–2 PhD students each year, including candidates for joint PhD programmes with Monash University, Australia, and PhD candidates through Southeast University’s School of Statistics and Data Science, and 2–3 master’s students each year, including students based at Southeast University’s Wuxi campus.
 
 Applicants should have strong mathematical and computing skills. There is no restriction on disciplinary background; relevant fields include, but are not limited to, transportation, management science, computer science and mathematics.
 
