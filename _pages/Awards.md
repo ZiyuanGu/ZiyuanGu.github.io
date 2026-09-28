@@ -9,6 +9,7 @@ author_profile: true
 
 ## 2026
 
+- Top Ten Residential College Mentor, Freshman College, Southeast University (2025–2026 academic year)
 - Two Spark Awards, Huawei
 - Best Paper Award, 15th Asia-Pacific Conference on Transportation and the Environment (APTE 2026), corresponding author
 
