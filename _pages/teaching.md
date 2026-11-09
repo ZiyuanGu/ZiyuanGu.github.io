@@ -23,6 +23,11 @@ Opportunities are available for academic exchange, joint training and visiting s
 
 ## Graduate outcomes
 
+### Master’s graduates, Class of 2026
+
+- Yifan Li — continued into doctoral study at Southeast University
+- Jiawei Liu — Anhui Sanlian Applied Traffic Technologies Co., Ltd.
+
 ### Master’s graduates, Class of 2025
 
 - Yang Cao — China Development Bank, Hunan Branch
